@@ -1,6 +1,6 @@
 ### Olá, sou o Claus
 
-Sou estudante de Ciência da Computação na FIAP, em São Paulo. Gosto de criar soluções com Python e AI para desafios reais. Também me interesso por análise de dados, exploro harwares embarcados e flerto com robótica. Gosto de explorar ideias para descobrir como a tecnologia pode resolver problemas concretos.
+Sou estudante de Ciências da Computação na FIAP, em São Paulo. Gosto de criar soluções com Python e AI para desafios reais. Também me interesso por análise de dados, exploro harware embarcado e flerto com robótica. Gosto de explorar ideias para descobrir como a tecnologia pode resolver problemas concretos.
 
 **Projeto em destaque: [Radar de Avaliações](https://github.com/ClausMoreira/radar-de-avaliacoes)**
 
