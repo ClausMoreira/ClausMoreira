@@ -1,16 +1,25 @@
-### Olá, sou o Claus
+Oi, eu sou o Claus
 
-Sou estudante de Ciências da Computação na FIAP, em São Paulo. Gosto de criar soluções com Python e AI para desafios reais. Também me interesso por análise de dados, exploro hardware embarcado e flerto com robótica. Gosto de explorar ideias para descobrir como a tecnologia pode resolver problemas concretos.
+Estudo Ciência da Computação na FIAP, em São Paulo, e gosto de usar IA em problemas de verdade, aqueles que fazem diferença no dia a dia de quem trabalha. Antes de considerar uma solução pronta, faço questão de medir se ela realmente funciona.
 
-**Projeto em destaque: [Radar de Avaliações](https://github.com/ClausMoreira/radar-de-avaliacoes)**
+Minha primeira automação com IA surgiu fora da faculdade, numa gráfica onde trabalhei. A coleta de dados do sistema era manual e se repetia todos os dias. Com ajuda de IA, escrevi um script que já entregava os dados tratados e organizados em planilha, o que economizou um tempo significativo no processo.
 
-O lojista de marketplace recebe milhares de avaliações em texto livre, e a nota em estrelas não diz o que resolver. O Radar lê as avaliações, identifica o motivo de cada reclamação e mostra por onde começar.
+Em destaque: Radar de Avaliações
 
-- Painel publicado com as três prioridades da loja: [abrir o app](https://radar-de-avaliacoes.streamlit.app)
-- Agente que responde perguntas em português consultando os dados, com conferência automática dos números
-- Automação no n8n: cada avaliação nova é classificada, registrada e, se for crítica, gera um alerta com rascunho de resposta para aprovação humana
-- Acerto medido contra avaliações rotuladas à mão: 88,3% em validação às cegas, e 76,7% só nas reclamações
+Quem vende em marketplace recebe milhares de avaliações em texto livre, e a nota em estrelas não conta o que precisa ser resolvido. O Radar lê essas avaliações, descobre o motivo de cada reclamação e aponta por onde começar.
 
-Python · API do Gemini · Streamlit · n8n · Google Planilhas
+Painel com as três prioridades da loja: abrir o app
+Agente que responde perguntas em português consultando os dados. Os números vêm das ferramentas, nunca do modelo, e uma conferência automática checa cada um deles
+Automação no n8n: cada avaliação nova é classificada e registrada; se for crítica, vira um alerta com rascunho de resposta que só sai com aprovação humana
+API com tela de teste: experimentar
+Acerto medido contra avaliações que rotulei à mão: 88,3% em validação às cegas e 76,7% só nas reclamações (o número mais honesto, porque elogio é fácil de acertar)
 
-[LinkedIn](https://www.linkedin.com/in/claus-henrique-ferreira-moreira-092b34429/)
+Os tropeços e as correções de rota estão no APRENDIZADOS.md.
+
+Stack: Python · API do Gemini · Streamlit · n8n · Google Planilhas · v0 · Vercel
+
+Fora da tela
+
+Nas horas vagas imprimo peças em 3D e monto projetos de robótica com ESP32.
+
+LinkedIn
