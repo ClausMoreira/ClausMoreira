@@ -1,8 +1,8 @@
-### Oi, eu sou o Claus
+### Olá, sou o Claus
 
-Estudo Ciência da Computação na FIAP, em São Paulo, e gosto de usar IA em problemas de verdade, aqueles que fazem diferença no dia a dia de quem trabalha. Antes de considerar uma solução pronta, faço questão de medir se ela realmente funciona.
+Estudo Ciência da Computação na FIAP, em São Paulo, e gosto de usar IA em problemas de verdade, aqueles que fazem diferença no dia a dia de quem trabalha.
 
-Minha primeira automação com IA surgiu fora da faculdade, numa gráfica onde trabalhei. A coleta de dados do sistema era manual e se repetia todos os dias. Com ajuda de IA, escrevi um script que já entregava os dados tratados e organizados em planilha, o que economizou um tempo significativo no processo.
+Minha primeira automação com IA surgiu fora da faculdade, em uma gráfica onde trabalhei. A coleta de dados do sistema era manual e custava muito tempo além de se repetir todos os dias. Com ajuda de IA, escrevi um script que já entregava os dados tratados e organizados em planilha, o que economizou um tempo significativo no processo.
 
 ### Em destaque: [Radar de Avaliações](https://github.com/ClausMoreira/radar-de-avaliacoes)
 
@@ -20,6 +20,6 @@ Os tropeços e as correções de rota estão no [APRENDIZADOS.md](https://github
 
 ### Fora da tela
 
-Nas horas vagas imprimo peças em 3D e monto projetos de robótica com ESP32.
+Nas horas vagas imprimo peças 3d e desenvolvo projetos com hardware embarcado :)
 
 [LinkedIn](https://www.linkedin.com/in/claus-henrique-ferreira-moreira-092b34429/)
