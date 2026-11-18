@@ -22,4 +22,4 @@ Os tropeços e as correções de rota estão no [APRENDIZADOS.md](https://github
 
 Nas horas vagas imprimo peças 3d e desenvolvo projetos com hardware embarcado :)
 
-[LinkedIn](https://www.linkedin.com/in/claus-henrique-ferreira-moreira-092b34429/)
+[LinkedIn](https://www.linkedin.com/in/claus-moreira-092b34429/)
